@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo ʕ•ᴥ•ʔ Bear on CW</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Hugo ʕ•ᴥ•ʔ Bear on CW</description>
+    <title>Blogs on CW</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on CW</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Oct 2024 01:17:27 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second_post</title>
       <link>http://localhost:1313/blog/second_post/</link>
@@ -18,7 +18,7 @@
     <item>
       <title>lava lamps</title>
       <link>http://localhost:1313/blog/first_post/</link>
-      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <pubDate>Wed, 02 Oct 2024 07:07:07 +0100</pubDate>
       <guid>http://localhost:1313/blog/first_post/</guid>
       <description>&lt;p&gt;Lava lamps is such a random name for a blog right?&lt;/p&gt;&#xA;&lt;p&gt;Perhaps they are the most random thing possible. This is precisely why Cloudflare, an internet security company, uses them to generate encryption keys.&lt;/p&gt;&#xA;&lt;p&gt;Because computers can never really generate random numbers, you must look to the real world instead.&lt;/p&gt;&#xA;&lt;p&gt;The lava blobs in lava lamps never take the same shape twice and move in inconsistent ways, not really following a pattern, similar to the way a candle flickers or a leaf blows in the wind. Cloudflare uses a series of cameras pointed at the lamps to generate data points (numbers) for starting points for their encryption keys.&lt;/p&gt;</description>
     </item>
