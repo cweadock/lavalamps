@@ -9,4 +9,4 @@ title = "Hugo ʕ•ᴥ•ʔ Bear"
 
 a website for documenting cool things i learn!
 
-[read my first post about lava lamps here](https://bearblog.dev/).
+[read my first post about lava lamps here](https://cweadock.github.io/lavalamps/blog/first_post/).
