@@ -6,8 +6,15 @@
     <description>Recent content in Blogs on CW</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Oct 2024 07:07:07 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 15:32:41 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ephemera</title>
+      <link>http://localhost:1313/blog/ephemera/</link>
+      <pubDate>Wed, 02 Oct 2024 15:32:41 -0500</pubDate>
+      <guid>http://localhost:1313/blog/ephemera/</guid>
+      <description>&lt;p&gt;Definition: items of collectible memorabilia, typically written or printed ones, that were originally expected to have only short-term usefulness or popularity.&lt;/p&gt;&#xA;&lt;p&gt;In other words, vintage items that were maybe one-time use or not expected to be collectible later. Great examples of ephemera include postage stamps, newspapers, stickers, cigarette boxes, snack wrappers. They serve as a great visual reference to specific time periods and can be used as obscure inspiration for graphic design, marketings, etc.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>lava lamps</title>
       <link>http://localhost:1313/blog/first_post/</link>
