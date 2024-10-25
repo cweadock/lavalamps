@@ -1,6 +1,6 @@
 +++
 title = "quantum entanglement"
-date = "2024-10-02T01:17:27-05:00"
+date = "2024-10-08T01:17:27-05:00"
 draft = "false"
 +++
 
