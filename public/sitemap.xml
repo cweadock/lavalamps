@@ -3,13 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-10-02T15:32:41-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/ephemera/</loc>
-    <lastmod>2024-10-02T15:32:41-05:00</lastmod>
+    <lastmod>2024-10-25T15:52:45-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-10-02T15:32:41-05:00</lastmod>
+    <lastmod>2024-10-25T15:52:45-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/nocebo_effect/</loc>
+    <lastmod>2024-10-25T15:52:45-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/cozy_bear/</loc>
+    <lastmod>2024-10-25T15:50:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/words1/</loc>
+    <lastmod>2024-10-13T21:42:29-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/quantum_entanglement/</loc>
+    <lastmod>2024-10-08T01:17:27-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/ephemera/</loc>
+    <lastmod>2024-10-05T15:32:41-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/first_post/</loc>
     <lastmod>2024-10-02T07:07:07+01:00</lastmod>

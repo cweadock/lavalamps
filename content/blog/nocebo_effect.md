@@ -1,9 +1,10 @@
 +++
-title = "Nocebo_effect"
+title = "nocebo effect"
 date = "2024-10-25T15:52:45-05:00"
 draft = false
 +++
-Nocebo: said to occur when a patient's negative expectations for a treatment cause the treatment to have a worse effect that it otherwise would 
+Nocebo: said to occur when a patient's negative expectations for a treatment cause the treatment to have a worse effect that it otherwise would
+
 Placebo: said to occur when positive expectations improve an outcome 
 
 Both effects are psychogenic, meaning they originate from the mind but they can produce measurable physical effects on the body. While a placebo effect improves a condition, nocebo can produce a wide range of symptoms such as nausea, stomach pains, itching, bloating, depression, and sleep problems. 
