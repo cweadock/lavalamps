@@ -1,7 +1,7 @@
 +++
 title = "Nocebo_effect"
 date = "2024-10-25T15:52:45-05:00"
-draft = false"
+draft = false
 +++
 Nocebo: said to occur when a patient's negative expectations for a treatment cause the treatment to have a worse effect that it otherwise would 
 Placebo: said to occur when positive expectations improve an outcome 
